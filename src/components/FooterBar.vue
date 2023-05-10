@@ -1,5 +1,7 @@
 <template>
-  <div class="home"><h2>123</h2></div>
+  <div>footer</div>
 </template>
 
 <script setup></script>
+
+<style scoped></style>
